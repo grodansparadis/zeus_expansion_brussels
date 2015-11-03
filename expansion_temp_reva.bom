@@ -1,0 +1,13 @@
+Partlist exported from C:/Users/akhe/Documents/development/hardware_zeus/Ethernet/ethernet module/snow_expansion/temp/expansion_temp_reva.sch at 2011-10-03 14:00:06
+
+Part  Value      Device     Package    Description                          Description              Supplier Partnumber     Price 
+C2    100n       C-EUC0805  C0805      CAPACITOR, European symbol           100nF Cheramic capacitor Bejoken  522526         0,07  
+C9    100nF      C-EUC0805  C0805      CAPACITOR, European symbol           Avkopplingskondensator   Bejoken  522526         0,07  
+C10   100nF      C-EUC0805  C0805      CAPACITOR, European symbol           Avkopplingskondensator   Bejoken  522526         0,07  
+IC5   TC72       TC72       MSOP8                                           Digital temp. sensor     Digikey  TC72-5.0MUA-ND 7,24  
+JP1              FE12-2     FE12-2     FEMALE HEADER                                                 Digikey  SAM1212-50-ND  6,18  
+R1    10K        R-EU_M0805 M0805      RESISTOR, European symbol            Resistor                 Bejoken  454676         0.011 
+R2    10K        R-EU_M0805 M0805      RESISTOR, European symbol            Resistor                 Bejoken  454676         0.011 
+R5    10K        R-EU_M0805 M0805      RESISTOR, European symbol            Resistor                 Bejoken  454676         0.011 
+SHT11 SHT11      SHT11      SHT11                                           Temp + Hummidity         Farnell  1590511        227,55
+X1    22-23-2041 22-23-2041 22-23-2041 .100" (2.54mm) Center Header - 4 Pin Stiftlist                Digikey  A19431-ND      2,22  
